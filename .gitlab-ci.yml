@@ -8,6 +8,7 @@ variables:
 stages:
   - style
   - build
+  - test
   - deploy
   - security
 
